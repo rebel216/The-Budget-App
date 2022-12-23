@@ -81,7 +81,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 - Dynamic
 - Mobile
 - Pleasing UI
@@ -189,7 +188,6 @@ rspec
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 - Live Demo
 - For desktop/Webpage
 - Expand on scale
