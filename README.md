@@ -14,20 +14,26 @@
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 Ruby Blog App ](#-ruby-blog-app-)
-	- [🛠 Built With ](#-built-with-)
-		- [Tech Stack ](#tech-stack-)
-	- [💻 Getting Started ](#-getting-started-)
-		- [Prerequisites](#prerequisites)
-		- [Setup](#setup)
-		- [Install](#install)
-		- [Usage](#usage)
-	- [👥 Authors ](#-authors-)
-	- [🤝 Contributing ](#-contributing-)
-	- [⭐️ Show your support ](#️-show-your-support-)
-	- [🙏 Acknowledgments ](#-acknowledgments-)
-	- [📝 License ](#-license-)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -72,16 +78,15 @@
 
 <!-- Features -->
 
-<!---
+
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- Dynamic
+- Mobile
+- Pleasing UI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
---->
+
 
 <!-- LIVE DEMO -->
 
@@ -180,16 +185,15 @@ rspec
 
 <!-- FUTURE FEATURES -->
 
-<!--
+
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- Live Demo
+- For desktop/Webpage
+- Expand on scale
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
---->
+
 
 <!-- CONTRIBUTING -->
 
