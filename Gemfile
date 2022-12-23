@@ -13,6 +13,8 @@ gem 'cancancan'
 
 gem 'rails-controller-testing'
 
+gem 'bullet', group: 'development'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.4', '>= 6.1.4.1'
 # Use postgresql as the database for Active Record
@@ -43,8 +45,10 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'factory_bot_rails'
   gem 'faker'
+  gem 'font-awesome-rails'
   gem 'rspec-rails'
   gem 'shoulda-matchers', '~> 5.0'
+
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
 end
