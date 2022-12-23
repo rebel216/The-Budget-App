@@ -3,9 +3,9 @@
   <img src="https://github.com/ogiogiovictor/hello_rails/blob/master/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Recipe-APP-Rails</b></h3>
+  <h3><b>The-Budget-App</b></h3>
 </div>
-# Budget App - Ruby on Rails
+
 
 Budget App is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
