@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone it using git command:
 ```ruby
-git clone https://github.com/rebel216/budget-app.git
+git clone https://github.com/rebel216/the-budget-app.git
 ```
 
 **Run in development (locally)**
@@ -99,7 +99,7 @@ rspec spec/test_file_path
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rebel216/budget-app/issues).
+Feel free to check the [issues page](https://github.com/rebel216/the-budget-app/issues).
 
 ## :grey_exclamation: Acknowledgments
 

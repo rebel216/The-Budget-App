@@ -21,14 +21,15 @@ RSpec.describe 'Group page', type: :feature do
     end
 
     it 'log-in and expects to go to add ingredients page' do
-      click_link 'ADD NEW CATEGORY'
+      click_link 'Add new Category'
       expect(page).to have_current_path(new_group_path)
     end
 
     it 'add new food to the recipe' do
-      click_link 'ADD NEW CATEGORY'
+      click_link 'Add new Category'
       fill_in 'group_name', with: 'Games'
-      click_button 'ADD CATEGORY'
+      fill_in 'group_icon', with: 'Icon'
+      click_button 'Create Group'
       expect(page).to have_content('Games')
     end
   end

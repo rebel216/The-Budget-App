@@ -24,15 +24,15 @@ RSpec.describe 'Purchase page', type: :feature do
     end
 
     it 'log-in and expects to go to add ingredients page' do
-      click_link 'ADD NEW TRANSACTION'
+      click_link 'Add new Transaction'
       expect(page).to have_current_path(new_group_purchase_path(@group))
     end
 
     it 'add new food to the recipe' do
-      click_link 'ADD NEW TRANSACTION'
+      click_link 'Add new Transaction'
       fill_in 'purchase_name', with: 'COD 4'
       fill_in 'purchase_amount', with: '1'
-      click_button 'ADD TRANSACTION'
+      click_button 'Create Purchase'
       expect(page).to have_content('COD 4')
     end
   end

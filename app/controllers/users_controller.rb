@@ -2,7 +2,6 @@ class UsersController < ApplicationController
   before_action :set_user, only: %i[show edit update destroy]
 
   def main_page
-    @current_user = current_user
     authorize! :read, User
   end
 
@@ -28,7 +27,7 @@ class UsersController < ApplicationController
 
     respond_to do |format|
       if @user.save
-        format.html { redirect_to @user, notice: 'User created.' }
+        format.html { redirect_to @user, notice: 'User was successfully created.' }
         format.json { render :show, status: :created, location: @user }
       else
         format.html { render :new, status: :unprocessable_entity }

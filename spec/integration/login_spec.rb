@@ -8,8 +8,9 @@ RSpec.describe 'Login page', type: :feature do
 
     it 'expects to go to sign-in page' do
       visit new_user_session_path
-      expect(page).to have_content('Sign up')
-      expect(page).to have_content('Forgot your password?')
+      expect(page).to have_content('Email')
+      expect(page).to have_content('Password')
+      expect(page).to have_content('Log in')
     end
 
     it "expects to show error message 'Invalid Email or password.'" do
