@@ -14,7 +14,7 @@ user = User.new(
 user.save!
 
 user1 = User.new(
-  email: 'guilherme@gmail.com',
+  email: 'rebel@gmail.com',
   password: 'password',
   password_confirmation: 'password',
   name: 'Guilherme'
