@@ -1,22 +1,118 @@
+<a name="readme-top"></a>
+
+
 <div align="center">
 
-  <img src="https://github.com/ogiogiovictor/hello_rails/blob/master/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://raw.githubusercontent.com/carlosmuerto/readme-template-microverse/master/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>The-Budget-App</b></h3>
+  <h3><b>The Budget App</b></h3>
+
 </div>
 
+<!-- TABLE OF CONTENTS -->
 
-Budget App is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+# 📗 Table of Contents
 
-## :hammer: Preview
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-- Under construction
 
-## :hammer: Built With
+<!-- PROJECT DESCRIPTION -->
 
-- Ruby on Rails
-- TailwindCSS
+# 📖 The Budget APP <a name="about-project"></a>
+
+
+> The **Ruby Blog App** is an example of a blog website. It will enable a blogger to create posts and users can comment and put their likes.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Ruby on Rails</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">TailwindCSS</a></li>
+  </ul>
+</details>
+
+
+<!-- Features -->
+
+
+### Key Features <a name="key-features"></a>
+
+- Dynamic
+- Mobile
+- Pleasing UI
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LIVE DEMO -->
+
+<!----
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+### Prerequisites
+
+In order to run this project you need:
+
+Example command:
+```sh
+ gem install rails
+```
+
+### Setup
 
 To get a local copy up and running follow these simple steps:
 
@@ -26,6 +122,9 @@ To get a local copy up and running follow these simple steps:
 ```ruby
 git clone https://github.com/rebel216/the-budget-app.git
 ```
+
+### Install
+
 
 **Run in development (locally)**
 
@@ -47,6 +146,9 @@ rails db:setup
 ```ruby
 rails db:seed
 ```
+
+To run the project, execute the following command:
+
 5. Run server
 ```ruby
 rails assets:precompile
@@ -55,62 +157,90 @@ rails assets:precompile
 rails server
 ```
 
-
-**Run tests**
-
-1. To run all tests in the project
+5. Run server
+To run all tests in the project
 ```ruby
 rspec
 ``` 
-If you wanna run a certain test file
-```ruby
-rspec spec/test_file_path
-```
 
-## :blue_book: Learning Objectives
 
-- Use ruby gems as software packages system.
-- Install Ruby on Rails framework.
-- Understand Rails RESTful design and router.
-- Use controllers to handle requests and render empty views.
-- Use params from browser request in a safe way.
-- Use preprocessed html file with embedded Ruby code.
-- Use layouts and templates for shared content.
-- Use database migration files to maintain database schema.
-- Use validations for models.
-- Secure app from n+1 problems.
-- Understand what ORM is.
-- Write SQL queries with ActiveRecord.
-- Set up associations between models.
-- Build a webapp that requires the user to log in.
-- Use devise gem for authentication.
-- Limit access to webapp resources based on authorization rules.
-- Analyze in writing why you have made a coding choice using one structure over another.
 
-## Authors
 
-👤 **NeerajBhardwa**
 
-- GitHub: [@NeerajBhardwaj](https://github.com/rebel216)
-- Twitter: [@NeerajBhardwaj](https://twitter.com/rebel216)
-- LinkedIn: [NeerajBhardwaj](https://www.linkedin.com/in/neerajbhardwaj216/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+👤 **Neeraj Bhardwaj**
+
+- GitHub: [@Neeraj-Bhardwaj](https://github.com/rebel216)
+- Twitter: [@Neeraj-Bhardwaj](https://twitter.com/rebel216)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/neerajbhardwaj216/)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Live Demo
+- For desktop/Webpage
+- Expand on scale
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rebel216/budget-app/issues).
+Feel free to check the [issues page](../../issues/).
 
-## :grey_exclamation: Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [Microverse](https://www.microverse.org/)
-- [SnapScan Design Guideline](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=)
+<!-- SUPPORT -->
 
-## Show your support
+## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+> Write a message to encourage readers to support your project
+If you like this project...
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](LICENSE) licensed.
+<!-- ACKNOWLEDGEMENTS -->
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+<!--
+## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
