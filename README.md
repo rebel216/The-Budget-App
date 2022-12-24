@@ -95,7 +95,7 @@
 
 > Add a link to your deployed project.
 - [Live Demo Link](https://rails-budget-app.onrender.com/)
-- [Video Link](https://drive.google.com/file/d/1KlQbumwJ40KEf3Wyxh-h3e33A9KeZgXH/view?usp=sharing)
+- [Video Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
