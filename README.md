@@ -90,14 +90,15 @@
 
 <!-- LIVE DEMO -->
 
-<!----
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://rails-budget-app.onrender.com/)
+- [Video Link](https://drive.google.com/file/d/1KlQbumwJ40KEf3Wyxh-h3e33A9KeZgXH/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
--->
+
 
 <!-- GETTING STARTED -->
 
@@ -218,8 +219,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-I would like to thank...
+- Original design idea by [Gregoire Vella on Behance..](https://www.behance.net/gregoirevella)
+- A big thanks to [@microverseinc](https://github.com/microverseinc).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
