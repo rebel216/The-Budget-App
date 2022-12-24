@@ -93,7 +93,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+
 - [Live Demo Link](https://rails-budget-app.onrender.com/)
 - [Video Link]()
 
